@@ -1,0 +1,23 @@
+{
+    "Batiments": [{
+        "Index": 1,
+        "Nom": "BatimentA",
+        "Zones": [{
+            "Index": 1,
+            "Nom": "Zone1",
+            "Nb_logement": 4,
+            "Ratio_habitable": 0.7,
+            "Groupes": [{
+                    "Index": 1,
+                    "Nom": "Groupe1",
+                    "SURT": 330
+                },
+                {
+                    "Index": 2,
+                    "Nom": "Groupe2",
+                    "SURT": 240
+                }
+            ]
+        }]
+    }]
+}
